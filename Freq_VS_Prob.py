@@ -55,3 +55,7 @@ st.image("Discrete_VS_Continuous.png")
 
 st.subheader("General Discrete Distribution Mean Std Calculation Template ")
 st.image("general.png")
+
+st.subheader("Binomial Distribution-Overview ")
+st.image("bindis.png.png")
+
