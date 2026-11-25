@@ -61,4 +61,4 @@ st.image("bindis.png",output_format="PNG")
 
 
 st.subheader("Binomial Distribution-4 Conditions")
-st.image("4conditions.png.png",output_format="PNG")
+st.image("4conditions.png",output_format="PNG")
