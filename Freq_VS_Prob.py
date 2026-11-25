@@ -47,15 +47,15 @@ set_table_styles([{"selector":"th","props":"border:solid yellow 2px"},
                   {"selector":"td","props":"border:dotted cyan 1.4px"},
                   {"selector":" ","props":"border:solid yellow 2px"}])
 
-st.image("Frequency_Prob.png")
+st.image("Frequency_Prob.png",output_format="PNG")
 
 st.subheader("Discrete VS Continuous ")
-st.image("Discrete_VS_Continuous.png")
+st.image("Discrete_VS_Continuous.png",output_format="PNG")
 
 
 st.subheader("General Discrete Distribution Mean Std Calculation Template ")
-st.image("general.png")
+st.image("general.png",output_format="PNG")
 
 st.subheader("Binomial Distribution-Overview ")
-st.image("bindis.png")
+st.image("bindis.png",output_format="PNG")
 
