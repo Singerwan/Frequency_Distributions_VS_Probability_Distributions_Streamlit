@@ -51,3 +51,7 @@ st.image("Frequency_Prob.png")
 
 st.subheader("Discrete VS Continuous ")
 st.image("Discrete_VS_Continuous.png")
+
+
+st.subheader("General Discrete Distribution Mean Std Calculation Template ")
+st.image("general.png")
