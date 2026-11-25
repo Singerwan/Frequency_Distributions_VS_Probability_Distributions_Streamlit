@@ -48,3 +48,6 @@ set_table_styles([{"selector":"th","props":"border:solid yellow 2px"},
                   {"selector":" ","props":"border:solid yellow 2px"}])
 
 st.image("Frequency_Prob.png")
+
+st.subheader("Discrete VS Continuous ")
+st.image("Discrete_VS_Continuous.png")
