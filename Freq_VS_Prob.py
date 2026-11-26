@@ -67,4 +67,4 @@ st.subheader("Uniform Distribution")
 st.image("uniform.png",output_format="PNG")
 
 st.subheader("Uniform Distribution-Variance Formula Derivation")
-st.image("univar.png",output_format="PNG")
+st.pdf("univar.pdf")
