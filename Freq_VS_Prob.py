@@ -67,5 +67,4 @@ st.subheader("Uniform Distribution")
 st.image("uniform.png",output_format="PNG")
 
 st.subheader("Uniform Distribution-Variance Formula Derivation")
-st.image("Univar.png",output_format="PNG")
-
+st.page_link("https://github.com/Singerwan/Math--Statistics--All/blob/main/Uniform%20Distribution%20Variance%20Formula%20Derivation.ipynb")
